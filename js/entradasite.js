@@ -5,7 +5,7 @@ function conf()
 		if(con === true)
 		{
 			alert('Então vamos lá!');
-			window. location = "form/form.html";
+			window. location = "./form.html";
 		} else {
 			alert('Prefere ficar na CLT né seu ovo maltino?');
 		}
